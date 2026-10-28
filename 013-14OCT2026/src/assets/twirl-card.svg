@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 360">
+  <rect width="500" height="360" rx="38" fill="#e9e4f5"/>
+  <path d="M75 232c67-128 283-158 350-35 33 62-11 106-72 101-58-5-79-55-35-88 38-29 92-4 94 37" fill="none" stroke="#b6a6d7" stroke-width="8" stroke-linecap="round"/>
+  <path d="M92 217c-26-14-45-33-53-58M92 217c-4 28 2 52 17 73" fill="none" stroke="#d77a83" stroke-width="5" stroke-linecap="round"/>
+  <text x="250" y="83" text-anchor="middle" fill="#58496f" font-family="Georgia,serif" font-size="38" font-style="italic">the twirl</text>
+  <text x="250" y="116" text-anchor="middle" fill="#927fae" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">DRAMATIC. UNNECESSARY. PERFECT.</text>
+</svg>
