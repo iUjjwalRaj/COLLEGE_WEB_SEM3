@@ -1,4 +1,3 @@
-import react from 'react'
 import D from './D'
 
 function C({name, age}) {

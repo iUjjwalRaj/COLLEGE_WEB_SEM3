@@ -1,5 +1,5 @@
-import react from 'react'
-import tsundere from '../App'
+import { useContext } from 'react'
+import { tsundere } from '../context'
 
 function D({name, age}) {
     const { cutie, cutieAge } = useContext(tsundere);
